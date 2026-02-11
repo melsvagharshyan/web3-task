@@ -44,7 +44,6 @@ export function useBalances(address: string | null) {
       refetchInterval: REFRESH_INTERVAL,
       staleTime: REFRESH_INTERVAL / 2,
     },
-    watch: true,
   });
 
   const {
