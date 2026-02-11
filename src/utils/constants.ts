@@ -1,0 +1,6 @@
+export const USDT_CONTRACT_ADDRESS = '0xdAC17F958D2ee523a2206206994597C13D831ec7';
+
+export const USDT_DECIMALS = 6;
+export const USDT_SYMBOL = 'USDT';
+
+export const ETHEREUM_MAINNET_CHAIN_ID = '0x1';
